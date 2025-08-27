@@ -1,4 +1,18 @@
-# 📚 Differential Geometry — Table of Contents
+## 1. Visualizations:
+
+This section consists of manim based visualization of different operations on tensorspace. 
+Though it's not possible to visualize everything on a high dimension we'll use some techniques
+throughout the way.
+
+### 1. 1. Intro To Manim Based Visualizations:
+
+[Manim Community](https://www.manim.community/)
+
+[**Getting Started**](./Mainm%20Visualization/Getting%20Started/README.md)
+- Foo
+- Foo
+
+## 2. Differential Geometry — Table of Contents
 
 | # | Topic | Subtopics to Cover | Notes / Resources |
 |---|-------|--------------------|-------------------|
@@ -12,3 +26,4 @@
 | 8 | **Curvature** | - Riemann curvature tensor <br> - Symmetries of curvature <br> - Sectional, Ricci, scalar curvature <br> - Jacobi fields & geodesic deviation <br> - Gauss–Bonnet theorem (2D) | do Carmo / Lee |
 | 9 | **Lie Groups & Lie Algebras** | - Definition & examples (SO(n), SU(n), GL(n)) <br> - Matrix Lie groups <br> - Lie algebra, commutators <br> - Exponential map <br> - Representation basics | Hall: *Lie Groups* |
 | 10 | **Bundles & Connections (Advanced)** | - Fiber bundles <br> - Tangent & cotangent bundles <br> - Principal bundles <br> - Connections on bundles <br> - Curvature forms <br> - Characteristic classes (Chern, Euler) | Bott & Tu, Milnor & Stasheff |
+
