@@ -22,3 +22,6 @@ __pycache__/
 
 # C extensions
 *.so
+
+# notes and log files
+*.notes
