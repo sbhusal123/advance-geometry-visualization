@@ -6,11 +6,11 @@ throughout the way.
 
 ### 1. 1. Intro To Manim Based Visualizations:
 
-[Manim Community](https://www.manim.community/)
+- [**Getting Started With Manim**](./Mainm%20Visualization/Getting%20Started/README.md)
 
-[**Getting Started**](./Mainm%20Visualization/Getting%20Started/README.md)
-- Foo
-- Foo
+
+
+> [Manim Community Docs](https://www.manim.community/)
 
 ## 2. Differential Geometry — Table of Contents
 

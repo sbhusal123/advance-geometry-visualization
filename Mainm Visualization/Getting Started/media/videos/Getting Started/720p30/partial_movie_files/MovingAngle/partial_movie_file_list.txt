@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/surya/Desktop/tensor-geometry/Mainm Visualization/Getting Started/media/videos/Getting Started/720p30/partial_movie_files/MovingAngle/2016333726_2688965532_3342007216.mp4'
+file 'file:/home/surya/Desktop/tensor-geometry/Mainm Visualization/Getting Started/media/videos/Getting Started/720p30/partial_movie_files/MovingAngle/543634251_1747038861_1643464761.mp4'
+file 'file:/home/surya/Desktop/tensor-geometry/Mainm Visualization/Getting Started/media/videos/Getting Started/720p30/partial_movie_files/MovingAngle/543634251_4036723913_4081161718.mp4'
+file 'file:/home/surya/Desktop/tensor-geometry/Mainm Visualization/Getting Started/media/videos/Getting Started/720p30/partial_movie_files/MovingAngle/543634251_302666382_1487433921.mp4'
+file 'file:/home/surya/Desktop/tensor-geometry/Mainm Visualization/Getting Started/media/videos/Getting Started/720p30/partial_movie_files/MovingAngle/543634251_1441025002_2903187705.mp4'

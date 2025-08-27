@@ -2,11 +2,9 @@
 
 This section covers intro on visualizing with manim.
 
-- [Manim Example From Official Docs](./Examples%20From%20Docs.ipynb)
+- [Example From Docs: Commented For Code Reusability](./Examples%20From%20Docs.ipynb)
 
-## 1. Connecting Maths With Visualization:
-- [Level1: Point, Line, Textures, Camera, ...]
-- []
+
 
 
 ## References:
