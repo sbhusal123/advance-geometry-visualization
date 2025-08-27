@@ -1,6 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/surya/Desktop/tensor-geometry/Mainm Visualization/Getting Started/media/videos/Getting Started/720p30/partial_movie_files/MovingFrameBox/2016333726_1272983275_223132457.mp4'
-file 'file:/home/surya/Desktop/tensor-geometry/Mainm Visualization/Getting Started/media/videos/Getting Started/720p30/partial_movie_files/MovingFrameBox/543634251_590328091_1486407870.mp4'
-file 'file:/home/surya/Desktop/tensor-geometry/Mainm Visualization/Getting Started/media/videos/Getting Started/720p30/partial_movie_files/MovingFrameBox/543634251_2834709167_3431960542.mp4'
-file 'file:/home/surya/Desktop/tensor-geometry/Mainm Visualization/Getting Started/media/videos/Getting Started/720p30/partial_movie_files/MovingFrameBox/543634251_55386842_467716457.mp4'
-file 'file:/home/surya/Desktop/tensor-geometry/Mainm Visualization/Getting Started/media/videos/Getting Started/720p30/partial_movie_files/MovingFrameBox/543634251_2834709167_2452553913.mp4'
